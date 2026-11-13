@@ -1,0 +1,14 @@
+[gd_scene format=3 uid="uid://btyeweb4b4mfs"]
+
+[ext_resource type="Script" uid="uid://ccdwe7xg7s7v8" path="res://scripts/main.gd" id="1_ig7tw"]
+
+[node name="Main" type="Node2D" unique_id=238782871]
+script = ExtResource("1_ig7tw")
+
+[node name="Label" type="Label" parent="." unique_id=803808271]
+offset_left = 340.0
+offset_top = 250.0
+offset_right = 940.0
+offset_bottom = 470.0
+theme_override_font_sizes/font_size = 40
+horizontal_alignment = 1
